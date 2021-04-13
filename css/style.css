@@ -1,0 +1,17 @@
+footer {
+    text-align: center;
+  }
+  header {
+    text-align: center;
+  }
+  a {
+    text-decoration: none;
+    padding: 10px;
+  
+  }
+  .logo {
+    width: 100px;
+    display: block;
+    margin: auto;
+  }
+    
