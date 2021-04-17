@@ -9,9 +9,20 @@ footer {
     padding: 10px;
   
   }
+  a:hover{
+    background-color: crimson;
+  }
   .logo {
     width: 100px;
     display: block;
     margin: auto;
   }
-    
+body{
+    width: 960px;
+    margin: auto;
+    }
+  main ol {
+    text-transform: uppercase;
+    color: blue;
+  }
+ 
